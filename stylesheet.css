@@ -1,0 +1,26 @@
+*
+{
+    background-color: rgb(21, 41, 41);
+}
+
+h1
+{
+    color: aqua;
+}
+
+#kevin
+{
+    color: aqua;
+}
+
+ul
+{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(28, 78, 121);
+    margin-top: 0px;
+    padding-top: 20px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
