@@ -17,6 +17,7 @@ h1
 #kevin
 {
     color: aqua;
+    letter-spacing: 2px;
 }
 
 
@@ -35,11 +36,22 @@ ul
 
 .links
 {
-  
-	
+  cursor: pointer;
 }
 
+#kip
+{
+    color: rgb(48, 6, 56);
+}
+#this
+{
+    color: rgb(48, 6, 56);
+}
 
+#portf
+{
+    color: rgb(48, 6, 56);
+}
  nav
  {
      margin: 0px;
@@ -50,27 +62,36 @@ ul
 .me
 {
     float: right;
-    height: 60vh;
     overflow: hidden;
+    position:relative;
+    height:max-content;
+    display:block;
 }
 
 .description
 {
-    font-size: 50px;
+    font-size: 52px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
     
 }
 
 #azure
 {
-    color: rgb(13, 141, 56);
+    color: rgb(48, 6, 56);
 }
 
 #google
 {
-    color: rgb(13, 141, 56);
+    color: rgb(48, 6, 56);
 }
 #amazon
 {
-    color: rgb(13, 141, 56);
+    color: rgb(48, 6, 56);
+}
+
+.button
+{
+   
+   
 }
