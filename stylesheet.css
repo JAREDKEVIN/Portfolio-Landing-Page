@@ -1,6 +1,11 @@
 *
 {
-    background-color: rgb(21, 41, 41);
+   background-image: src="https://images.unsplash.com/photo-1618367588411-d9a90fefa881?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGdyYWRpZW50JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60";
+	padding: 0;
+	margin: 0;
+	font-family: 'Josefin Sans', sans-serif;
+	box-sizing: border-box;
+    
 }
 
 h1
@@ -21,6 +26,20 @@ ul
     margin-top: 0px;
     padding-top: 20px;
     font-size: large;
+    list-style: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+    border: 0px;
 
+}
+ nav
+ {
+     margin: 0px;
+     border: 0px;
+     padding: 0px;
+
+ }
+.me
+{
+    float: right;
+    height: 60vh;
+}
