@@ -1,6 +1,6 @@
 *
 {
-   background-image: src="https://images.unsplash.com/photo-1618367588411-d9a90fefa881?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGdyYWRpZW50JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60";
+   background-image: url('/images/blue\ red.jpg'); 
 	padding: 0;
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
@@ -11,6 +11,7 @@
 h1
 {
     color: aqua;
+   text-align: center;
 }
 
 #kevin
@@ -18,7 +19,8 @@ h1
     color: aqua;
 }
 
-ul
+
+ul 
 {
     display: flex;
     justify-content:space-evenly;
@@ -28,9 +30,16 @@ ul
     font-size: large;
     list-style: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 0px;
 
 }
+
+.links
+{
+  
+	
+}
+
+
  nav
  {
      margin: 0px;
@@ -42,4 +51,26 @@ ul
 {
     float: right;
     height: 60vh;
+    overflow: hidden;
+}
+
+.description
+{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#azure
+{
+    color: rgb(13, 141, 56);
+}
+
+#google
+{
+    color: rgb(13, 141, 56);
+}
+#amazon
+{
+    color: rgb(13, 141, 56);
 }
