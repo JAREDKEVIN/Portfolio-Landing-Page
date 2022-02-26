@@ -12,7 +12,7 @@
 + [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
-+ [Licence](#licence)
++ [Licence](#LICENSE)
 + [Authors Info](#author-Info)
 
 ## Description
@@ -28,6 +28,7 @@ I am willing to gain the desired knowledge to propel me to become a full stack d
 Still under construction and improvements are beind made on a daily basis.
 ## Technologies Used
 HTML, CSS, Git
+[LICENSE](LICENSE)
 
 ## Support and contact details
 Email: kevin.kipkemoi@student.moringaschool.com
