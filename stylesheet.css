@@ -96,8 +96,9 @@ text-decoration: none;
 {
     font-size: 52px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: aqua;
-    text-align:left;
+    color:rgb(44, 3, 53);
+	display: flex;
+justify-content: center;
     
     
 }
@@ -105,16 +106,25 @@ text-decoration: none;
 #azure
 {
     color: rgb(48, 6, 56);
+    font-weight: bolder;
 }
 
 #google
 {
     color: rgb(48, 6, 56);
+    font-weight: bolder;
 }
+
 #amazon
 {
     color: rgb(48, 6, 56);
+    font-weight: bolder;
 }
+#mastercard
+{
+    font-weight: bolder;
+}
+
 
 .button a
 {
@@ -129,7 +139,9 @@ text-decoration: none;
 	padding: 10px 25px;
 	border-radius: 30px;
 	transition: transform .4s; 
+    bottom: 30px;
 }
+
 .button:hover
 {
     transform: scale(0.9);
@@ -197,11 +209,13 @@ h2
 
 h5
 {
-    color: #f9004d;
+    color: rgb(44, 3, 53);;
     font-weight: 200;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
     text-decoration:underline;
+  
+    text-transform: capitalize;
 }
 
 
