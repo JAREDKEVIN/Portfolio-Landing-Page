@@ -271,6 +271,26 @@ h5
 	text-align: center;
 }
 
+.farming
+{
+    border: 5px #000 solid;
+    justify-content: center;
+    display:block;
+    border-width: 5px;
+    border-radius: 20px;
+    border-style:groove;
+    height: 365px;
+	width: 335px;
+	padding: 20px 35px;
+	background: #b61045;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow:visible;
+	text-align: center;
+}
+
+
 
 footer{
 	position: relative;
