@@ -9,12 +9,12 @@
 }
 .navigation
 {
-    color: rgb(204, 32, 118);;
+    color: rgb(204, 32, 118);
 }
 
 h1
 {
-    color: aqua;
+  
    text-align: center;
    font-weight:500;
    color: white;
@@ -34,6 +34,7 @@ nav ul li a
 color: aliceblue;
 text-decoration: none;
 text-transform: capitalize;
+background-color: rgb(204, 32, 118);
 }
 
 nav ul li a:hover
@@ -46,7 +47,7 @@ ul
 {
     display: flex;
     justify-content:space-evenly;
-    background-color: rgb(28, 78, 121);
+    background-color: rgb(204, 32, 118);
     margin-top: 0px;
     padding-top: 20px;
     font-size: large;
@@ -63,13 +64,13 @@ text-decoration: none;
 
 .links 
 {
-    
+   text-decoration: none; 
   cursor: pointer;
 }
 
 #kip
 {
-    color: rgb(204, 32, 118);
+    color: white;
 }
 #this
 {
