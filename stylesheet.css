@@ -1,11 +1,15 @@
 *
 {
-   background-image: url('/images/blue\ red.jpg'); 
+   background-color:rgb(44, 3, 53); ;
 	padding: 0;
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
     
+}
+.navigation
+{
+    color: rgb(204, 32, 118);;
 }
 
 h1
@@ -21,7 +25,7 @@ h1
 
 #kevin
 {
-    color: aqua;
+    color: rgb(204, 32, 118);
     letter-spacing: 2px;
 }
 
@@ -65,16 +69,16 @@ text-decoration: none;
 
 #kip
 {
-    color: rgb(48, 6, 56);
+    color: rgb(204, 32, 118);
 }
 #this
 {
-    color: rgb(48, 6, 56);
+    color: rgb(204, 32, 118);
 }
 
 #portf
 {
-    color: rgb(48, 6, 56);
+    color: rgb(204, 32, 118);
 }
  nav
  {
@@ -96,7 +100,7 @@ text-decoration: none;
 {
     font-size: 52px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:rgb(44, 3, 53);
+    color:rgb(165, 150, 168);
 	display: flex;
 justify-content: center;
     
@@ -105,19 +109,19 @@ justify-content: center;
 
 #azure
 {
-    color: rgb(48, 6, 56);
+    color: rgb(204, 32, 118);
     font-weight: bolder;
 }
 
 #google
 {
-    color: rgb(48, 6, 56);
+    color: rgb(204, 32, 118);
     font-weight: bolder;
 }
 
 #amazon
 {
-    color: rgb(48, 6, 56);
+    color: rgb(204, 32, 118);
     font-weight: bolder;
 }
 #mastercard
@@ -131,7 +135,7 @@ justify-content: center;
    text-align: end;
    float: right;
    font-size:30px;
-   	background-color:#f9004d;
+   	background-color:rgb(204, 32, 118);;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -159,7 +163,7 @@ justify-content: center;
 	display: inline-block;
 	width: 100%;
 	padding: 14px 130px 14px 15px;
-	border: 2px solid #f9004d;
+	border: 2px solid rgb(204, 32, 118);;
 	outline: none;
 	border-radius: 30px;
 }
@@ -171,7 +175,7 @@ justify-content: center;
 	border: none;
 	padding: 10px 30px;
 	border-radius: 30px;
-	background-color:#f9004d;
+	background-color:rgb(204, 32, 118);
 	color: white;
 	box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
 	top: 6px;
@@ -181,11 +185,11 @@ justify-content: center;
 h2
 {
    text-align: center;
-   color:rgb(48, 6, 56);
+   color:white;
    font-size:50px;
    padding-top: 10px;
    border-radius: 30px;
-  border: #f9004d;
+  border: rgb(204, 32, 118);
    border-width: 10px;
    margin: 50px;
    padding-bottom: 10px;
@@ -193,6 +197,10 @@ h2
 
 
   
+}
+.about
+{
+
 }
 
 .hobbies
@@ -209,7 +217,7 @@ h2
 
 h5
 {
-    color: rgb(44, 3, 53);;
+    color: white;
     font-weight: 200;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
@@ -235,7 +243,7 @@ h5
     height: 365px;
 	width: 335px;
 	padding: 20px 35px;
-	background:#b61045;
+	background:rgb(204, 32, 118);
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
@@ -258,7 +266,7 @@ h5
     height: 365px;
 	width: 335px;
 	padding: 20px 35px;
-	background: #b61045;
+	background: rgb(204, 32, 118);
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
@@ -277,7 +285,7 @@ h5
     height: 365px;
 	width: 335px;
 	padding: 20px 35px;
-	background: #b61045;
+	background: rgb(204, 32, 118);
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
@@ -296,7 +304,7 @@ h5
     height: 365px;
 	width: 335px;
 	padding: 20px 35px;
-	background: #b61045;
+	background: rgb(204, 32, 118);
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
@@ -335,14 +343,17 @@ footer p:nth-child(2)
 
 .social{
 	display: flex;
+    
 }
 
-.social a{
-	width: 55px;
-	height: 55px;
+
+	.social a 
+    {
+	width: 45px;
+	height: 45px;
 	display: flex;
 	align-items: center;
-	justify-content:space-between;
+	justify-content: center;
 	background:  #f9004d;
 	border-radius: 50%;
 	margin: 22px 10px;
