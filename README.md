@@ -28,6 +28,7 @@ I am willing to gain the desired knowledge to propel me to become a full stack d
 Still under construction and improvements are beind made on a daily basis.
 ## Technologies Used
 HTML, CSS, Git
+####license
 [LICENSE](LICENSE)
 
 ## Support and contact details
